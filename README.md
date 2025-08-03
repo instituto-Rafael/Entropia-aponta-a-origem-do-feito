@@ -1,0 +1,1 @@
+# Entropia-aponta-a-origem-do-feito
