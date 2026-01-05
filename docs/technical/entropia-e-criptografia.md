@@ -16,7 +16,9 @@ A entropia, no contexto da teoria da informação, mede a imprevisibilidade ou a
 
 Quando dados pessoais (nome, CPF, data de nascimento) são transformados em hash, criam um vetor único que pode servir como assinatura criptográfica.
 
-**Exemplo de conversão:**
+**⚠️ Nota sobre Privacidade**: Este exemplo utiliza dados do próprio autor deste repositório como demonstração do conceito. Em aplicações práticas, dados sensíveis devem ser protegidos adequadamente.
+
+**Exemplo de conversão (dados do autor):**
 
 ```
 Texto: Rafael Melo Reis|28742458870|27121980|São Paulo|ω
